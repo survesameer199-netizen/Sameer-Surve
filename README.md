@@ -33,7 +33,7 @@ I enjoy working with data analytics tools and building dashboards that help in d
 | Category | Tools |
 |----------|-------|
 | Database | MySQL |
-| Visualization | Power BI, Tableau, Looker Studio |
+| Visualization | Power BI, Tableau, Excel |
 | Spreadsheet | Excel, Google Sheets |
 | Programming | Python |
 | AI Tools | ChatGPT, Claude |
