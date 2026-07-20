@@ -28,6 +28,16 @@ I enjoy working with data analytics tools and building dashboards that help in d
 - Performed data cleaning and analysis on restaurant datasets.
 - Created insights related to ratings, locations, pricing, and customer preferences.
 
+   ## 📊 Tools & Technologies
+
+| Category | Tools |
+|----------|-------|
+| Database | MySQL |
+| Visualization | Power BI, Tableau, Looker Studio |
+| Spreadsheet | Excel, Google Sheets |
+| Programming | Python |
+| AI Tools | ChatGPT, Claude |
+
 ---
 
 ## 📜 Certifications
